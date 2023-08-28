@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nhathuy7996
-- 👀 I’m interested in girls
-- 🌱 I’m currently learning how to pickup a girl
-- 💞️ I’m looking to collaborate on dating
+- 👀 I’m game developer
+- 🌱 I’m currently work at APERO Gamelab as technical lead
+- 💞️ I’m looking to collaborate on anything :))
 - 📫 How to reach me? Let's me reach you :3
 
 <!---

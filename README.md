@@ -20,5 +20,5 @@
 ## Có thể các bạn đã biết đến mình ở: 
 - <a href="https://www.tiktok.com/@gamedevtoi" target="_blank">tiktok</a> này
 - hay <a href="https://www.instagram.com/gamedevtoi" target="_blank">insta</a> này
-- hay <a href="https://www.youtube.com/@gamedevtoi" target="_blank">youtube</a> này
+- hay <a href="https://www.youtube.com/@gamedevtoi" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCfEdOoUcXutQmGeDYoowxIw"></a> này
  
